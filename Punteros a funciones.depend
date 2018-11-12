@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1542026493 source:c:\users\alumno\desktop\punteros a funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1542027125 source:c:\users\alumno\desktop\punteros a funciones\puntero llama a dos funciones.c
+	<stdio.h>
+	<stdlib.h>
+
